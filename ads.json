@@ -1,0 +1,35 @@
+{
+  "rotate_sec": 40,
+  "links": {
+    "blog": "https://donglab.tistory.com",
+    "download": "https://github.com/build2792/pdf-editor/releases",
+    "source": "https://github.com/build2792/pdf-editor",
+    "contact": "mailto:여기에-이메일@example.com"
+  },
+  "ads": [
+    {
+      "id": "inquiry",
+      "slots": [
+        "home",
+        "bar"
+      ],
+      "image": "inquiry_728x90.png",
+      "image_bar": "inquiry_468x60.png",
+      "text": "이 자리에 광고하세요 — 광고 문의",
+      "url": "mailto:여기에-이메일@example.com?subject=PDF%20편집기%20광고%20문의",
+      "weight": 1
+    },
+    {
+      "id": "donate",
+      "slots": [
+        "home",
+        "bar"
+      ],
+      "image": "donate_728x90.png",
+      "image_bar": "donate_468x60.png",
+      "text": "무료 PDF 편집기가 도움이 되셨나요? 커피 한 잔 후원하기",
+      "url": "https://toss.me/여기에-토스아이디",
+      "weight": 1
+    }
+  ]
+}
